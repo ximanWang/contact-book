@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Ida:ManMan123123@contactbook-onsea.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
